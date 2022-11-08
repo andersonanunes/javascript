@@ -1,0 +1,14 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Teste ATDD Projeto BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Anderson Nunes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}

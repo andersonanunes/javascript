@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 Given(/^que acesso a aplicação$/, () => {
-	cy.viewport(1280, 720) // exibe em desktop
+	cy.viewport(1920, 1080) // exibe em desktop
 	cy.visit('/');
 });
 
